@@ -17,3 +17,4 @@ Werkzeug==2.2.2
 wheel==0.37.1
 WTForms==3.0.1
 xgboost==1.6.1
+setuptools
